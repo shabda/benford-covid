@@ -2,7 +2,8 @@
 
 ## Notebooks
 
-1. https://www.agiliq.com/notebook/benford/Benford_Analysis_of_Covid_Data_of_US_States.html
+1. https://www.agiliq.com/notebook/benford/Benford_Analysis_of_Covid_Data_of_US_States.html\
+2. https://www.agiliq.com/notebook/benford/Benford_Analysis_of_World_Covid_Data.html
 
 ## Data
 
